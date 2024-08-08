@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_api\\TodoApis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBE28F0-F844-4685-946F-D7522B215306}|TodoApi.csproj|c:\\users\\z004yw6y\\git\\devops\\sandbox\\deployment_api\\todoapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBE28F0-F844-4685-946F-D7522B215306}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBE28F0-F844-4685-946F-D7522B215306}|TodoApi.csproj|c:\\users\\z004yw6y\\git\\devops\\sandbox\\deployment_api\\todoapis\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBE28F0-F844-4685-946F-D7522B215306}|TodoApi.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBE28F0-F844-4685-946F-D7522B215306}|TodoApi.csproj|c:\\users\\z004yw6y\\git\\devops\\sandbox\\deployment_api\\todoapis\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBE28F0-F844-4685-946F-D7522B215306}|TodoApi.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBE28F0-F844-4685-946F-D7522B215306}|TodoApi.csproj|c:\\users\\z004yw6y\\git\\devops\\sandbox\\deployment_api\\todoapis\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FBE28F0-F844-4685-946F-D7522B215306}|TodoApi.csproj|solutionrelative:todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBE28F0-F844-4685-946F-D7522B215306}|TodoApi.csproj|c:\\users\\z004yw6y\\git\\devops\\sandbox\\deployment_api\\todoapis\\utilities\\excelreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBE28F0-F844-4685-946F-D7522B215306}|TodoApi.csproj|solutionrelative:utilities\\excelreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBE28F0-F844-4685-946F-D7522B215306}|TodoApi.csproj|c:\\users\\z004yw6y\\git\\devops\\sandbox\\deployment_api\\todoapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FBE28F0-F844-4685-946F-D7522B215306}|TodoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBE28F0-F844-4685-946F-D7522B215306}|TodoApi.csproj|c:\\users\\z004yw6y\\git\\devops\\sandbox\\deployment_api\\todoapis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FBE28F0-F844-4685-946F-D7522B215306}|TodoApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_api\\TodoApis\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_api\\TodoApis\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T08:45:39.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_api\\TodoApis\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_api\\TodoApis\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T11:19:55.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExcelReader.cs",
+              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_api\\TodoApis\\Utilities\\ExcelReader.cs",
+              "RelativeDocumentMoniker": "Utilities\\ExcelReader.cs",
+              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_api\\TodoApis\\Utilities\\ExcelReader.cs",
+              "RelativeToolTip": "Utilities\\ExcelReader.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:15:22.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoApi.csproj",
+              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_api\\TodoApis\\TodoApi.csproj",
+              "RelativeDocumentMoniker": "TodoApi.csproj",
+              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_api\\TodoApis\\TodoApi.csproj",
+              "RelativeToolTip": "TodoApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T17:14:35.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_api\\TodoApis\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_api\\TodoApis\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\TasksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:58:21.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_api\\TodoApis\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_api\\TodoApis\\Models\\TodoItem.cs",
+              "RelativeToolTip": "Models\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:57:12.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_api\\TodoApis\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Sandbox\\Deployment_api\\TodoApis\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvyMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:56:16.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
